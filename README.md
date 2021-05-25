@@ -1,5 +1,5 @@
-[![Série](https://img.shields.io/badge/lramon2001-CRUD-orange)](https://github.com/lramon2001/DesafioZetta)
-[![licence mit](https://img.shields.io/badge/licence-MIT-purple.svg)](https://github.com/lramon2001/DesafioZetta/blob/main/LICENSE)
+[![Série](https://img.shields.io/badge/lramon2001-CRUD-orange)](https://github.com/lramon2001/PrimeiroProjetoJava)
+[![licence mit](https://img.shields.io/badge/licence-MIT-purple.svg)](https://github.com/lramon2001/PrimeiroProjetoJava/blob/master/LICENSE)
 ![language](https://img.shields.io/badge/languaqe-java-blue)
 ![design](https://img.shields.io/badge/view-jframe-green)
 
@@ -38,9 +38,9 @@ If you need to edit or delete an employee from the list, just click on the desir
 > **Esse projeto segue o modelo de [release](https://github.com/lramon2001/DesafioZetta/releases/tag/DesafioZettav1.0) para versionamento.**
 
 ## History / História
-- See [Commit changes](https://github.com/lramon2001/DesafioZetta/commits/main) for details.
+- See [Commit changes](https://github.com/lramon2001/PrimeiroProjetoJava/graphs/commit-activity) for details.
 
-> **Consulte [Mudanças de commit](https://github.com/lramon2001/DesafioZetta/commits/main) para obter detalhes.**
+> **Consulte [Mudanças de commit](https://github.com/lramon2001/PrimeiroProjetoJava/graphs/commit-activity) para obter detalhes.**
 
 ## License / Licença
-[MIT License](https://github.com/lramon2001/DesafioZetta/blob/master/LICENSE) © [lramon](https://github.com/lramon2001)
+[MIT License](https://github.com/lramon2001/PrimeiroProjetoJava/blob/master/LICENSE) © [lramon](https://github.com/lramon2001)
