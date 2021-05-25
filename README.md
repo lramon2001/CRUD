@@ -3,6 +3,9 @@
 ![language](https://img.shields.io/badge/languaqe-java-green)
 ![design](https://img.shields.io/badge/view-jframe-yellow)
 
+:rocket: Project with OO approaches and Java applications. 
+
+> :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 ## CRUD 
 Software desenvolvido para apredizado da linguagem java com interface gráfica/ Software developed for learning the Java language with a graphical interface
 
@@ -20,9 +23,7 @@ If you need to edit or delete an employee from the list, just click on the desir
 - 
 ## Interface feita com Jframe/ Design done with JFRAME:
 ![Imagem Interface](https://github.com/lramon2001/DesafioZetta/blob/master/Interface.png)
-:rocket: Project with OO approaches and Java applications. 
 
-> :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 
 ## Contributing / Contribuindo
 
