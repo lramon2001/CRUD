@@ -1,7 +1,7 @@
-[![Série](https://img.shields.io/badge/lramon2001-CRUD-orange)](https://github.com/lramon2001/PrimeiroProjetoJava)
-[![licence mit](https://img.shields.io/badge/licence-MIT-purple.svg)](https://github.com/lramon2001/PrimeiroProjetoJava/blob/master/LICENSE)
-![language](https://img.shields.io/badge/languaqe-java-blue)
-![design](https://img.shields.io/badge/view-jframe-green)
+[![Série](https://img.shields.io/badge/lramon2001-CRUD-blue)](https://github.com/lramon2001/PrimeiroProjetoJava)
+[![licence mit](https://img.shields.io/badge/licence-MIT-white.svg)](https://github.com/lramon2001/PrimeiroProjetoJava/blob/master/LICENSE)
+![language](https://img.shields.io/badge/languaqe-java-green)
+![design](https://img.shields.io/badge/view-jframe-yellow)
 
 ## CRUD 
 Software desenvolvido para apredizado da linguagem java com interface gráfica/ Software developed for learning the Java language with a graphical interface
